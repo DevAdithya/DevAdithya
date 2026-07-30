@@ -1,54 +1,100 @@
-## 🕷 Spider Animation
+<div align="center">
 
-👉 Check it here:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:0E75B6&height=220&section=header&text=Hi%20There,%20I'm%20Dev%20Adithya%20%F0%9F%91%8B&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20clean,%20creative%20things&descAlignY=53&descSize=15&descColor=E8E8E8" width="100%" alt="header banner"/>
 
-[Live Demo](https://devadithya.github.io/spider-animation/)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%26+React+Native+Enthusiast;Turning+Coffee+%E2%98%95+into+Code;Ctrl%2BC+%2F+Ctrl%2BV+is+my+Superpower+%F0%9F%98%84" alt="Typing SVG"/>
 
-<h1 align="center">Hi 👋, I'm Dev Adithya</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devadithya&label=Profile%20views&color=0e75b6&style=flat" alt="devadithya" /> </p>
+<img src="https://komarev.com/ghpvc/?username=devadithya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<a href="https://linkedin.com/in/dev7z"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dev22adithya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devadithya" alt="devadithya" /></a> </p>
+</div>
 
----
+<br/>
 
-- 🔭 I’m currently working on **Not yet**
+## 🕸️ Featured Build
 
-- 🌱 I’m currently learning **React Native**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **Not yet**
+**Spider Animation** — an interactive web animation, built from scratch
 
-- 🤝 I’m looking for help with **Not yet**
+[![Live Demo](https://img.shields.io/badge/▶_View_Live_Demo-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devadithya.github.io/spider-animation/)
 
-- 👨‍💻 All of my projects are available at [Not yet](Not yet)
+</div>
 
-- 📝 I regularly write articles on [Not yet](Not yet)
+<br/>
 
-- 💬 Ask me about **React**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **www.dev22adithya@gmail.com**
+```yaml
+currently_learning: "React Native"
+ask_me_about:      "React"
+reach_me_at:       "dev22adithya@gmail.com"
+fun_fact:          "Ctrl + C and Ctrl + V are my most trusted teammates"
+```
 
-- 📄 Know about my experiences [Not yet](Not yet)
+<br/>
 
-- ⚡ Fun fact **Ctrl + C and Ctrl + V are my most trusted teammates**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev7z" height="30" width="40" /></a>
-<a href="https://fb.com/dev7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev7z" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_adi7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_adi7z" height="30" width="40" /></a>
-<a href="https://discord.gg/devadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devadithya" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,reactnative,nodejs,express,mongodb,mysql,oracle,python,kotlin,android,git,figma,ps,unity,unrealengine&theme=dark&perline=8" alt="tech stack icons"/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/dev_7z"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dev_7z" /></a></p><br><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devadithya&show_icons=true&locale=en&layout=compact" alt="devadithya" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devadithya&show_icons=true&locale=en" alt="devadithya" /></p>
+## 📊 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devadithya&" alt="devadithya" /></p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devadithya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadithya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devadithya&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devadithya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devadithya/devadithya/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+
+</div>
+
+<div align="center">
+<sub>Live animated version of your contribution graph — powered by a small GitHub Action. See <code>snake.yml</code> below to switch it on.</sub>
+</div>
+
+<br/>
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://ko-fi.com/dev_7z"><img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dev7z"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fb.com/dev7z"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://instagram.com/dev_adi7z"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://discord.gg/devadithya"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0F2027&height=110&section=footer" width="100%" alt="footer banner"/>
