@@ -14,15 +14,7 @@
 
 <br/>
 
-## 🕸️ Featured Build
 
-<div align="center">
-
-**Spider Animation** — an interactive web animation, built from scratch
-
-[![Live Demo](https://img.shields.io/badge/▶_View_Live_Demo-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devadithya.github.io/spider-animation/)
-
-</div>
 
 <br/>
 
@@ -51,12 +43,9 @@ fun_fact:          "Ctrl + C and Ctrl + V are my most trusted teammates"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devadithya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadithya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadithya&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devadithya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
