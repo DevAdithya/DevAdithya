@@ -76,6 +76,20 @@ fun_fact:          "Ctrl + C and Ctrl + V are my most trusted teammates"
 
 <br/>
 
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devadithya/devadithya/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
+
+</div>
+
+<div align="center">
+<sub>An isometric 3D render of your contribution graph on a dark background — much rarer than the standard widgets. Powered by <code>profile-3d.yml</code> below. Prefer a different look? Swap the filename for <code>profile-season-animate.svg</code> (colors shift with the seasons) or <code>profile-gitblock.svg</code> (stacked block style).</sub>
+</div>
+
+<br/>
+
 ## ☕ Support My Work
 
 <div align="center">
