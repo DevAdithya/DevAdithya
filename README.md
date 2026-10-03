@@ -23,8 +23,8 @@
 ```yaml
 currently_learning: "React Native"
 ask_me_about:      "React"
-reach_me_at:       "dev22adithya@gmail.com"
-fun_fact:          "Ctrl + C and Ctrl + V are my most trusted teammates"
+reach_me_at:       "www.dev22adithya@gmail.com"
+fun_fact:          "Cmd + C and Cmd + V are my most trusted teammates"
 ```
 
 <br/>
