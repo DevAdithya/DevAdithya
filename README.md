@@ -31,11 +31,17 @@ fun_fact:          "Cmd + C and Cmd + V are my most trusted teammates"
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,reactnative,nodejs,express,mongodb,mysql,python,kotlin,android,git,figma,ps,unity,oracle,unrealengine&theme=dark&perline=8" alt="tech stack icons"/>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10" alt="Tech stack icons" />
+    </picture>
+  </a>
+</p>
 
 <br/>
 
