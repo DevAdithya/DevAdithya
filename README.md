@@ -23,7 +23,7 @@
 ```yaml
 currently_learning: "React Native"
 ask_me_about:      "React"
-reach_me_at:       "www.dev22adithya@gmail.com"
+reach_me_at:       "dev22adithya@gmail.com"
 fun_fact:          "Cmd + C and Cmd + V are my most trusted teammates"
 ```
 
@@ -31,16 +31,19 @@ fun_fact:          "Cmd + C and Cmd + V are my most trusted teammates"
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10&theme=light" />
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal,oracle&perline=10" alt="Tech stack icons" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal&perline=10&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal&perline=10&theme=light" />
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,py,kotlin,android,git,figma,ps,unity,unreal&perline=10" alt="Tech stack icons" />
     </picture>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 <br/>
